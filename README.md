@@ -4,7 +4,7 @@ I'm a student currently focused on *front-end* development.
 - 📑 Interested in learning, constantly studiyng.
 - 🌐 Available for work and networking.
 
-### Skills 
+### Skills and Tools
 
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
