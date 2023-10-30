@@ -11,9 +11,8 @@ I'm a student currently focused on *front-end* development.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img alighn="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7C922?style=for-the-badge&logo=javascript&logoColor=black">
-<img alighn="center" alt="javascript" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7C922?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 
 - I have good experience designing with **Photoshop**.
