@@ -1,7 +1,7 @@
 ## Hi there! 🖐️
 I'm a student currently focused on *front-end* development.
 - 🌏 Native in **Portuguese** and proficient in **English**.
-- 📑 Interested in learning, constantly studiyng.
+- 📑 Interested in learning, constantly studying.
 - 🌐 Available for work and networking.
 
 ### Skills and Tools
