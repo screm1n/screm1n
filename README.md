@@ -28,5 +28,3 @@ I'm a student currently focused on *front-end* development.
 
 <div style="display: inline_block">
 <img height="189em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=screm1n&theme=radical">
-  
-
