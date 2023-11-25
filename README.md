@@ -23,8 +23,8 @@ I'm a student currently focused on *front-end* development.
 
 ### Stats and Activity
 <div style="display: inline_block">
-<img height="142em" src="https://github-readme-stats.vercel.app/api?username=screm1n&show_icons=true&theme=radical&count_private=true&rank_icon=github&hide_border=true">
-<img height="142em" src="https://github-readme-stats.vercel.app/api/wakatime?username=scremin&langs_count=8&hide_border=true&bg_color=141424&custom_title=Codding%20Time&title_color=e23a70&text_color=4cbdde&range=all_time&icon_color=c4ac3e">
+<img height="149em" src="https://github-readme-stats.vercel.app/api?username=screm1n&show_icons=true&theme=radical&count_private=true&rank_icon=github&hide_border=true">
+<img height="149em" src="https://github-readme-stats.vercel.app/api/wakatime?username=scremin&langs_count=8&hide_border=true&bg_color=141424&custom_title=Codding%20Time&title_color=e23a70&text_color=4cbdde&range=all_time&icon_color=c4ac3e">
 </div>
 
 <div style="display: inline_block">
