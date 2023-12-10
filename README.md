@@ -19,7 +19,7 @@ I'm a student currently focused on *front-end* development.
 
 - I have good experience designing with **Photoshop**.
 - **HTML** and **CSS** are what I'm most aware of so far.
-- Learning to develop with **JavaScript** and **Node.js**.
+- Learning to develop with **JavaScript** and **Node**.
 
 ### Stats and Activity
 <div style="display: inline_block">
