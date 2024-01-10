@@ -1,4 +1,4 @@
-## Hi there! 🖐️
+## Hi there!! 🖐️
 I'm a student currently focused on *front-end* development.
 - 🌏 Native in **Portuguese** and proficient in **English**.
 - 📝 Interested in learning, constantly evolving.
