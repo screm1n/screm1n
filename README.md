@@ -1,10 +1,10 @@
 ## Hi there!! 🖐️
-I'm a student currently focused on *front-end* development.
+I'm currently focused on *front-end* development. Concurrently, I'm expanding my skills in *backend* development and acquiring knowledge in database management.
 - 🌏 Native in **Portuguese** and proficient in **English**.
 - 📝 Interested in learning, constantly evolving.
 - 🌐 Available for work and networking.
 
-### Skills and Tools
+## Skills and Tools
 
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
@@ -20,11 +20,11 @@ I'm a student currently focused on *front-end* development.
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-- I have good experience designing with **Photoshop**.
-- **HTML** and **CSS** are what I'm most aware of so far.
-- Learning to develop with **JavaScript** and **Node**.
+- I have solid experience in graphic design using **Photoshop**.
+- **HTML** and **CSS** and **JavaScript** are what I'm most aware of so far.
+- Learning back-end development with **Node.js** and **PostgreSQL**.
 
-### Stats and Activity
+## Stats and Activity
 <div style="display: inline_block">
 <img height="155em" src="https://github-readme-stats.vercel.app/api?username=screm1n&show_icons=true&theme=radical&count_private=true&rank_icon=github&hide_border=true">
 <img height="156em" src="https://github-readme-stats.vercel.app/api/wakatime?username=scremin&langs_count=8&hide_border=true&bg_color=141424&custom_title=Codding%20Time&title_color=e23a70&text_color=4cbdde&range=all_time&icon_color=c4ac3e">
