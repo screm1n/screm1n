@@ -1,5 +1,5 @@
 ## Hi there!! 🖐️
-I'm currently focused on *front-end* development. Concurrently, I'm expanding my skills in *backend* development and acquiring knowledge in database management.
+I'm currently focused on front-end development while concurrently expanding my skills in back-end development and acquiring knowledge in database management.
 - 🌏 Native in **Portuguese** and proficient in **English**.
 - 📝 Interested in learning, constantly evolving.
 - 🌐 Available for work and networking.
@@ -20,8 +20,8 @@ I'm currently focused on *front-end* development. Concurrently, I'm expanding my
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-- I have solid experience in graphic design using **Photoshop**.
-- **HTML** and **CSS** and **JavaScript** are what I'm most aware of so far.
+- Solid experience in graphic design using **Photoshop**.
+- Proficient in **HTML**, **CSS** and **JavaScript**.
 - Learning back-end development with **Node.js** and **PostgreSQL**.
 
 ## Stats and Activity
