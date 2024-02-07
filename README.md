@@ -23,6 +23,7 @@ Atualmente, estou focado no desenvolvimento front-end, simultaneamente expandind
 - Experiência sólida em design gráfico com **Photoshop**.
 - Competente em **HTML**, **CSS** e **JavaScript**.
 - Aprendendo back-end com **Node.js** e **PostgreSQL**.
+- Aprimorando o conhecimento front-end com **React**.
 
 ## Stats and Activity
 <div style="display: inline_block">
