@@ -2,7 +2,7 @@
 Atualmente, estou focado no desenvolvimento front-end, simultaneamente expandindo minhas habilidades no back-end e adquirindo conhecimentos em gerenciamento de banco de dados.
 - 🌏 Nativo em **Português** e proficiente em **Inglês**.
 - 📝 Aprendendo constantemente.
-- 🎓 Cursando Ciência da Computação na UNINTER.
+- 🎓 Atualmente cursando Ciência da Computação.
 - 🌐 Disponível profissionalmente/networking.
 
 ## Skills and Tools
