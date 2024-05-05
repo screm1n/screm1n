@@ -2,12 +2,12 @@
 Atualmente, estou focado no desenvolvimento front-end, simultaneamente expandindo minhas habilidades no back-end e adquirindo conhecimentos em gerenciamento de banco de dados.
 - 🌏 Nativo em **Português** e proficiente em **Inglês**.
 - 📝 Aprendendo constantemente.
-- 🎓 Estudante de Ciência da Computação.
+- 🎓 Cursando Ciência da Computação.
 - 🌐 Disponível profissionalmente/networking.
 
 ## Skills and Tools
 
-<img height="45em" src="https://skillicons.dev/icons?i=js,typescript,photoshop,html,css,react,bootstrap,nodejs" />
+<img height="45em" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,react,nodejs,photoshop,xd" />
 
 - Experiência sólida em design gráfico com **Photoshop**.
 - Competente em **HTML**, **CSS**, **JavaScript** e **React**.
