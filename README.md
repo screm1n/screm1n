@@ -1,6 +1,7 @@
 ## Hi there! 🖐️
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 Atualmente, estou focado no desenvolvimento front-end, simultaneamente expandindo minhas habilidades no back-end e adquirindo conhecimentos em gerenciamento de banco de dados.
+
 - 🌏 Nativo em **Português** e proficiente em **Inglês**.
 - 📝 Aprendendo constantemente.
 - 🎓 Cursando Ciência da Computação.
