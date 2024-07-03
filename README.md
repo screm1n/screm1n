@@ -7,7 +7,7 @@ Atualmente, estou focado no desenvolvimento front-end, simultaneamente expandind
 
 ## Skills and Tools
 
-<img height="45em" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,react,nodejs,photoshop,xd" />
+<img height="45em" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,react,nodejs,photoshop,xd,wordpress" />
 
 - Experiência sólida em design gráfico com **Photoshop**.
 - Competente em **HTML**, **CSS**, **JavaScript** e **React**.
