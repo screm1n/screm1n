@@ -1,7 +1,7 @@
 ## Hi there! 🖐️
-🌏 Native Portuguese speaker and proficient in English.
-📝 AI-focused developer.
-🎓 Currently pursuing a degree in Computer Science.
+🌏 Native Portuguese speaker and proficient in English.  
+📝 AI-focused developer.  
+🎓 Currently pursuing a degree in Computer Science.  
 🌐 Open for professional opportunities and networking.
 
 ## Skills and Tools
