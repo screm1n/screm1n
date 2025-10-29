@@ -1,17 +1,12 @@
 ## Hi there! 🖐️
-- 🌏 Nativo em **Português** e proficiente em **Inglês**.
-- 📝 Desenvolvedor especializado em IA.
-- 🎓 Cursando Ciência da Computação.
-- 🌐 Disponível profissionalmente/networking.
+🌏 Native Portuguese speaker and proficient in English.
+📝 AI-focused developer.
+🎓 Currently pursuing a degree in Computer Science.
+🌐 Open for professional opportunities and networking.
 
 ## Skills and Tools
 
 <img height="45em" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,react,nodejs,photoshop,xd,wordpress" />
-
-- Experiência sólida em design gráfico com **Photoshop**.
-- Competente em **HTML**, **CSS**, **JavaScript** e **React**.
-- Aprendendo back-end com **Node.js** e **PostgreSQL**.
-- Atualmente estudando/trabalhando com **WordPress**.
 
 ## Stats and Activity
 <div style="display: inline_block">
